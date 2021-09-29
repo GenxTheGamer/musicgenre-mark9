@@ -13,5 +13,5 @@
   
 
 ## Live Showcase
-[Link to Live showcase on CodeSandbox]https://37v2s.csb.app/)
+[Link to Live showcase on CodeSandbox](https://37v2s.csb.app/)
 
